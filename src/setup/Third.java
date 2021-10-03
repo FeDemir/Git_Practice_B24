@@ -6,4 +6,8 @@ public class Third {
 
     // set up third class
 
+    // okay next line
+
+    // some more code
+
 }
